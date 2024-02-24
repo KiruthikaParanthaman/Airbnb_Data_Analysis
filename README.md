@@ -11,4 +11,4 @@ In this Airbnb project airbnb data from Mongodb sample cluster  has been analyse
 Mongodb Atlas,Mongodb Compass,Python,PowerBi,Visual Studio,Jupyter,Streamlit
 
 **Approach:**
-Airbnb Sample cluster data from Mongodb Atlas has been downloaded into local system and explored using Mongodb Compass.Connection was made to Mongodb database using python Mongoclient module and json data type converted into dataframe for easy analysis.After data retrieval and conversion, Exploratory Data Analysis has been performed, which can be accessed here (EDA) 
+Airbnb Sample cluster data from Mongodb Atlas has been downloaded into local system and explored using Mongodb Compass.Connection was made to Mongodb database using python Mongoclient module and json data type converted into dataframe for easy analysis.After data retrieval and conversion, Exploratory Data Analysis has been performed, which can be accessed here [EDA](https://github.com/KiruthikaParanthaman/Airbnb_Data_Analysis/blob/main/Airbnb%20Exploratory%20Data%20Analysis%20markdown.md)
