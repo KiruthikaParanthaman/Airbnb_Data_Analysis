@@ -31,4 +31,11 @@ After the EDA process, interactive streamlit app with airbnb hotel selection opt
 **Map                   :** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Map displays list of hotels nearby in the seected city\
 **Details tab           :** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Details tab displays hotel name,price,rating,location,amenities and other features of selected hotel\
 **Price Chart           :** &emsp;&emsp;&emsp;&emsp;&emsp;Price Chart displays average price of that area with similar accomodates on comparison with selected hotel's price,  &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;which enables user to calculated decision\
-**Rating chart          :** &emsp;&emsp;&emsp;&emsp;&ensp;Rating chart displays average Rating of that area with similar accomodates on comparison with selected hotel's rating\
+**Rating chart          :** &emsp;&emsp;&emsp;&emsp;&ensp;Rating chart displays average Rating of that area with similar accomodates on comparison with selected hotel's rating
+
+**PowerBi Dashboard:**
+
+Powerbi Dashboard has been developed for visualising global price analysis,distribution of property type,room type,Global top super hosts,price vs rating
+
+![airbnb powerbi](https://github.com/KiruthikaParanthaman/Airbnb_Data_Analysis/assets/141828622/2f490b15-cdac-4173-9f50-8872d1ed5540)
+
